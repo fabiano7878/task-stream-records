@@ -1,0 +1,140 @@
+.
+├── .gitattributes
+├── .gitignore
+├── .gradle
+│   ├── 8.10
+│   │   ├── checksums
+│   │   │   ├── checksums.lock
+│   │   │   ├── md5-checksums.bin
+│   │   │   └── sha1-checksums.bin
+│   │   ├── dependencies-accessors
+│   │   │   ├── b0b32d309130f56363f7e8390f57303b96717543
+│   │   │   │   ├── classes
+│   │   │   │   │   └── org
+│   │   │   │   │       └── gradle
+│   │   │   │   │           └── accessors
+│   │   │   │   │               └── dm
+│   │   │   │   │                   ├── LibrariesForLibs$BundleAccessors.class
+│   │   │   │   │                   ├── LibrariesForLibs$PluginAccessors.class
+│   │   │   │   │                   ├── LibrariesForLibs$VersionAccessors.class
+│   │   │   │   │                   ├── LibrariesForLibs.class
+│   │   │   │   │                   ├── LibrariesForLibsInPluginsBlock$BundleAccessors.class
+│   │   │   │   │                   ├── LibrariesForLibsInPluginsBlock$PluginAccessors.class
+│   │   │   │   │                   ├── LibrariesForLibsInPluginsBlock$VersionAccessors.class
+│   │   │   │   │                   └── LibrariesForLibsInPluginsBlock.class
+│   │   │   │   ├── metadata.bin
+│   │   │   │   └── sources
+│   │   │   │       └── org
+│   │   │   │           └── gradle
+│   │   │   │               └── accessors
+│   │   │   │                   └── dm
+│   │   │   │                       ├── LibrariesForLibs.java
+│   │   │   │                       └── LibrariesForLibsInPluginsBlock.java
+│   │   │   └── gc.properties
+│   │   ├── executionHistory
+│   │   │   ├── executionHistory.bin
+│   │   │   └── executionHistory.lock
+│   │   ├── expanded
+│   │   ├── fileChanges
+│   │   │   └── last-build.bin
+│   │   ├── fileHashes
+│   │   │   ├── fileHashes.bin
+│   │   │   ├── fileHashes.lock
+│   │   │   └── resourceHashesCache.bin
+│   │   ├── gc.properties
+│   │   └── vcsMetadata
+│   ├── buildOutputCleanup
+│   │   ├── buildOutputCleanup.lock
+│   │   ├── cache.properties
+│   │   └── outputFiles.bin
+│   ├── file-system.probe
+│   └── vcs-1
+│       └── gc.properties
+├── .project
+├── .settings
+│   └── org.eclipse.buildship.core.prefs
+├── README.md
+├── app
+│   ├── .classpath
+│   ├── .project
+│   ├── .settings
+│   │   ├── org.eclipse.buildship.core.prefs
+│   │   └── org.eclipse.jdt.core.prefs
+│   ├── bin
+│   │   ├── main
+│   │   │   ├── application.yml
+│   │   │   ├── com
+│   │   │   │   └── br
+│   │   │   │       ├── dto
+│   │   │   │       │   ├── ProductDTO.class
+│   │   │   │       │   └── ResponseProduct.class
+│   │   │   │       ├── model
+│   │   │   │       │   └── Product.class
+│   │   │   │       ├── repository
+│   │   │   │       │   └── InMemoryProductRepository.class
+│   │   │   │       └── service
+│   │   │   │           └── ProductService.class
+│   │   │   └── org
+│   │   │       └── example
+│   │   │           └── App.class
+│   │   └── test
+│   │       └── org
+│   │           └── example
+│   │               └── AppTest.class
+│   ├── build
+│   │   ├── classes
+│   │   │   └── java
+│   │   │       └── main
+│   │   │           └── org
+│   │   │               └── example
+│   │   │                   └── App.class
+│   │   ├── generated
+│   │   │   └── sources
+│   │   │       ├── annotationProcessor
+│   │   │       │   └── java
+│   │   │       │       └── main
+│   │   │       └── headers
+│   │   │           └── java
+│   │   │               └── main
+│   │   └── tmp
+│   │       └── compileJava
+│   │           └── previous-compilation-data.bin
+│   ├── build.gradle
+│   └── src
+│       ├── main
+│       │   ├── java
+│       │   │   ├── com
+│       │   │   │   └── br
+│       │   │   │       ├── dto
+│       │   │   │       │   ├── ProductDTO.java
+│       │   │   │       │   └── ResponseProduct.java
+│       │   │   │       ├── model
+│       │   │   │       │   └── Product.java
+│       │   │   │       ├── repository
+│       │   │   │       │   └── InMemoryProductRepository.java
+│       │   │   │       └── service
+│       │   │   │           └── ProductService.java
+│       │   │   └── org
+│       │   │       └── example
+│       │   │           └── App.java
+│       │   └── resources
+│       │       └── application.yml
+│       └── test
+│           ├── java
+│           │   └── org
+│           │       └── example
+│           │           └── AppTest.java
+│           └── resources
+├── docker-compose.yml
+├── gradle
+│   ├── libs.versions.toml
+│   └── wrapper
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
+├── gradle.properties
+├── gradlew
+├── gradlew.bat
+├── project-structure.txt
+└── settings.gradle
+
+73 directories, 64 files
